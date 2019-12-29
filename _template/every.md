@@ -1,90 +1,90 @@
 
 # 학원 1일째 
-## do
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
 
 # 혼공 1일째 
-## do
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
 
 # 학원 2일째 
-## do
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
 
 # 혼공 2일째 
-## do
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
 
 # 학원 3일째 
-## do
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
 
-# 혼공 2일째 
-## do
+# 혼공 3일째 
+### do
 -
 
-## good
+### good
 - 
 
-## bad
+### bad
 - 
 
-## etc
+### etc
 - 
 
 <br /><br />
