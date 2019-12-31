@@ -72,13 +72,13 @@
 
 <br><hr><br>
 
-### 2019년 12월 각 주차 회고
-- 1주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_1th.md
-- 2주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_2th.md
-- 3주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_3th.md
-- 4주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_4th.md
-
 ---
+
+### 2019년 best
+
+- https://github.com/ds2lvg/devDiary/blob/master/book/2019.md
+- 최고의 책, 앨범, 영화
+- 한해동안 읽은/읽고있는 책
 
 ### 2019년 commit
 
