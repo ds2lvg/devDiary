@@ -77,14 +77,6 @@
 - 이번년도에 읽은 책, 읽고 있는 책(다 읽기는 하려나..?) 목록
 - https://github.com/ds2lvg/devDiary/blob/master/book/2019.md
 
-### 2019년 12월 각 주차 회고
-- 1주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_1th.md
-- 2주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_2th.md
-- 3주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_3th.md
-- 4주차 : https://github.com/ds2lvg/devDiary/blob/master/2019/201912_4th.md
-
----
-
 ### 2019년 commit
 
 -   private 저장소에 commit을 많이 한 관계로 다른 사람이 접속해서 보면 아래 사진처럼 커밋이 많이 보이지 않는다.
