@@ -34,6 +34,10 @@
 ### img
 ```![이미지 이름](이미지 URL)``` 
 
+### [하이퍼링크](http://www.google.co.kr).
+```
+[하이퍼링크](http://www.google.co.kr).
+```
 
 ### code
 \`\`\`언어명 <br>
