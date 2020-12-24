@@ -75,7 +75,7 @@
 ### 2019년 Best of year
 - 이번년도에 접한 책, 음반, 영화 중 best
 - 이번년도에 읽은 책, 읽고 있는 책(다 읽기는 하려나..?) 목록
-- https://github.com/ds2lvg/devDiary/blob/master/book/2019.md
+- https://github.com/ds2lvg/devDiary/blob/master/best/2019.md
 
 ### 2019년 commit
 
