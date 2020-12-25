@@ -82,7 +82,7 @@
 -   private 저장소에 commit을 많이 한 관계로 다른 사람이 접속해서 보면 아래 사진처럼 커밋이 많이 보이지 않는다.
 -   3~4월은 다른 remote git을 사용한 관계로 commit이 비어있고 11월까지는 대부분 회사 업무때문에 기록된 commit들이다.
 
-[##_Image|kage@bdNVH9/btqAMlQegbX/K1wToKPmPJjk2UkiznQL20/img.png|alignLeft|data-origin-width="946" data-origin-height="223"|||_##]
+<img src="./img/commit_2019.png" />
 
 ### 2019년 12월 각 주차 회고
 
