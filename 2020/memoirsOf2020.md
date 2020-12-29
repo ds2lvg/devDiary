@@ -36,19 +36,14 @@ GraphQL이니 하는 당장 회사에서 쓰지 않는 기술에 관심을 기�
 <br><hr><br>
 
 ### Best of 2020
+
+- Book: 나는 단순하게 살기로 했다
+- Record: i`m so tired... -Lauv, Troye Sivan
+- Movie: 날씨의 아이
+- Lecture: 인프런의 실전 리액트 프로그래밍
+- Item: Macbook Pro
+- Tool: Notion
 - 자세한 내용은 https://github.com/ds2lvg/devDiary/blob/master/best/2020.md
-
-#### Book: 나는 단순하게 살기로 했다
-- 이 책 덕분에 버리지 못하거나 정리하지 못한 것들을 할 수 있었다.
-
-#### Record: i`m so tired... -Lauv, Troye Sivan
-- 가사내용이 나처럼 일때문에 피곤하다는건 아니지만, 그래도 제목만큼은 내 상황에 딱 맞아서 더 와닿는다.
-
-#### Movie: 날씨의 아이
-- 영상미는 신카이 마코토 감독 작품답게 끝내줬고 너무 대중적인었던 너의 이름은 보다 이게 더 마코토스러웠음.
-
-#### Lecture: 인프런의 실전 리액트 프로그래밍
-- 강의만 들어도 리액트 공부를 어떤식으로 했을지 느낌이 왔고 나 또한 저런식으로 공부해야겠다는 다짐을 하게 한 69,300원이 아깝지 않은 명강의.
 
 ### Commit in 2020
 
