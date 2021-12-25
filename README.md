@@ -7,3 +7,4 @@
 - https://github.com/ds2lvg/devDiary/blob/master/2020/memoirsOf2020.md
 
 ## 2021년 회고 
+- https://github.com/ds2lvg/devDiary/blob/master/2021/memoirsOf2021.md
