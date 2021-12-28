@@ -27,13 +27,29 @@
 
 ### Best of 2020
 
-- Book: 나는 아마존에서 미래를 다녔다
-- Record: make me wanna die -The Pretty Reckless
-- Movie: 코너 맥그리거: 노토리어스
-- Lecture: 인프런의 ES6 기초편
-- Item: iPad mini
-- Fashion: 나이키 페가수스 트레일3 고어텍스
-- Tool: 쿠키파킹
+### Book 
+- 나는 아마존에서 미래를 다녔다
+  - 글로벌 IT 대기업에 다닌 사람이 느낀점을 직접 말해주는 느낌
+
+### Record
+- make me wanna die -The Pretty Reckless
+  - 죽을 것 같이 노력해서 힘들었던 한해여서 그런지 빠져들었던 음악
+
+### Movie
+- 코너 맥그리거: 노토리어스
+  - 누구보다 영화같은 인생을 산 격투가 코너 맥그리거의 성공 비결을 느낄 수 있는 다큐멘터리
+
+### Item
+- iPad mini
+  - 맥북 에어 가격의 휴대성 좋은 전자노트 & 영상 머신 & 이북 리더기 & 게임기
+
+### Fashion
+- 나이키 페가수스 트레일3 고어텍스
+  - 방수, 접지력등의 등산화의 기능성과 러닝화의 이쁘고 가볍고 편한 장점을 합친 힙한 등산화
+
+### Tool
+- 쿠키파킹
+  - 노션으로도 즐겨찾기 URL을 정리해놓을 수 있지만, 크롬확장도구 기반으로 편리하게 정리할 수 있는 툴이 나왔다.
 
 ### My programing language in 2021
 
